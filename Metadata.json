@@ -1,0 +1,20 @@
+{
+    "Author": "cmendibl3",
+    "ContentSize": 2344,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/addazurermanalysisservicesfirewallrule/master/Add-AzureRmAnalysisServicesFirewallRule.ps1",
+    "DownloadCount": 902,
+    "Id": "Add-AzureRmAnalysisServices-6fd9d854",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 527,
+    "RaterCount": 3,
+    "Rating": 5.0,
+    "ReleaseDate": "2017-10-6T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Add-AzureRmAnalysisServicesFirewallRule is a small powershell script that uses the the Set-AzureRmResource cmdlet to\u00a0dd firewall rules to an Azure Analysis Service instance.Once you run it, the script will ask you for:The resource group name where the Analysis Service is deployed",
+    "Title": "Add-AzureRmAnalysisServicesFirewallRule",
+    "UpdatedDate": "2017-10-17T00:00:00",
+    "Url": "https://github.com/azureautomation/addazurermanalysisservicesfirewallrule",
+    "UserTags": "Azure, Powershell, Analysis Services"
+}
